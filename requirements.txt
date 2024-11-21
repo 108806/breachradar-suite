@@ -1,11 +1,13 @@
+setuptools
+wheel
+elasticsearch>=8.0.0,<9.0.0
+toml
 requests
 python-telegram-bot
-elasticsearch
 logstash
 psycopg2-binary
 python-dotenv
 zstandard
-elasticsearch>=8.0.0,<9.0.0
 PyYAML
 watchdog
 telethon
